@@ -4,6 +4,8 @@
 - https://en.wikipedia.org/wiki/K%C3%B6ppen_climate_classification
 - https://en.wikipedia.org/wiki/Ecoregion#Definition_and_categorization
 - https://en.wikipedia.org/wiki/Tropical_and_subtropical_moist_broadleaf_forests
+- Whittaker, R. J. Communities and Ecosystems (Macmillan, 1975)
+- http://maps.tnc.org/gis_data.html
 
 ## Lifezone definition:
 
